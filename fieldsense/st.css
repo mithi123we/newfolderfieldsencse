@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(44, 170, 228);
+    /* padding-left: 40px; */
+}
+
+.container {
+    border: 0px solid black;
+}
+
+.row {
+    border: 0px solid rgb(44, 170, 228);
+}
+
+.col {
+    border: 0px solid rgb(44, 170, 228);
+    background-color: black;
+}
+
+.col-md-5 {
+    background: rgb(44, 170, 228);
+}
+
+head {
+    background-color: rgb(44, 170, 228);
+}
+
+.col-md-1 {
+    background: rgb(44, 170, 228);
+}
+
+.col-md-6 {
+    background: rgb(44, 170, 228);
+    border: 0px;
+    margin-top: 1cm;
+    margin-bottom: 0.25cm;
+}
